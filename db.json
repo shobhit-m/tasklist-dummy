@@ -59,21 +59,6 @@
 		"status": "started"
 	},
 	{
-		"id": 127,
-		"title": "code review and code comment of amazon s3 data migration.  hhg hghgh asd asd asda sd asd asd asdadsasd asda sd",
-		"taskId": "#123456789",
-		"type": "Other",
-		"sprint": "1.1.35",
-		"members": "",
-		"estimation": "",
-		"date": "",
-		"duration": "",
-		"createdDate": "",
-		"updatedDate": "",
-		"isEdit": false,
-		"status": "started"
-	},
-	{
 		"id": 128,
 		"title": "code review and code comment of amazon s3 data migration.  hhg hghgh asd asd asda sd asd asd asdadsasd asda sd",
 		"taskId": "#123456789",
